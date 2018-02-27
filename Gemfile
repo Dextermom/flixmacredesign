@@ -57,6 +57,7 @@ group :test do
   gem "capybara", "2.7.1"
 end
 
+
 group :production do
   gem 'pg', '~> 1.0'
 end
